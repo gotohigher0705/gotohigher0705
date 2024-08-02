@@ -10,10 +10,11 @@ My goal is to continuously leverage my skills and experiences to build efficient
 ## Skills
 
 - **Programming Languages:** JavaScript (Node.js, Express.js, React.js), Python, C++
-- **Video Streaming:** HLS, DASH, AWS KVS, WebRTC
+- **Video Streaming:** HLS, DASH, RTMP, RTSP, WebRTC
 - **Video Processing:** FFmpeg, GStreamer, OpenCV
 - **Mobile App Development:** Android, iOS
-- **Cloud Services:** AWS (Elastic Beanstalk, S3, CloudFront, KVS)
+- **Cloud Services:** AWS, GCP
+- **Media Services:** AWS KVS, MediaLive, MediaConvert, Wowza Media Server, Kurento, Ant Media, Twilio, Agora
 - **Databases:** NoSQL/SQL
 - **Other Technologies:** IPFS, DRM (Widevine, FairPlay), JW Player, VLC Player
 
